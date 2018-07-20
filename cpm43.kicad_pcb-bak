@@ -2984,6 +2984,11 @@
       (net 2 GND))
     (pad 4 smd rect (at 1.65 -2.4 180) (size 1.4 1.8) (layers B.Cu B.Paste B.Mask)
       (net 54 "Net-(LED1-Pad4)"))
+    (model ${KIPRJMOD}/3D/WS2812_RGB_LED_updated.stp
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module WS2812B:WS2812B (layer B.Cu) (tedit 5B4D029E) (tstamp 5B4D581E)
@@ -7826,8 +7831,8 @@
       (net 142 "Net-(U2-Pad3)"))
     (pad 4 smd rect (at -0.95 1) (size 0.6 1.2) (layers B.Cu B.Paste B.Mask)
       (net 52 VCC))
-    (model TO_SOT_Packages_SMD.3dshapes/SC-70-5.wrl
-      (at (xyz 0 0 0))
+    (model ${KIPRJMOD}/3D/TO-253AA.stp
+      (offset (xyz -0.76 -1.2 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
