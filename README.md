@@ -7,13 +7,13 @@
 [Layout](http://www.keyboard-layout-editor.com/#/gists/e3d0a9a1f7fb6537a82bb3f0c82ddf35)
 
 ## Features
-* Pwm controlled single color led backlight
-* Atmega32u4 Microcontroller running at 16mhz
-* ESD and overcurrent protection
-* RGB underglow provided by 14 WS2812B LED packages
-* ICSP programming header
-* MX and ALPS compatibility
-* USB Type-C port
+* In-switch LED support.
+* RGB underglow from 14 separate WS2812B LEDs.
+* USB Type-C connector on the left side.
+* Compatible with MX and ALPS switches. 
+* Integrated Atmega32u4 microcontroller for a lower profile and easier qmk compatibility.
+* USB ESD protection circuit.
+* ICSP programming header just in case you try something a bit too extreme and need to unbrick it.
 
 ## Warning
 KiCad 5 or above is needed to open this project. KiCad 4 or below won't work.
