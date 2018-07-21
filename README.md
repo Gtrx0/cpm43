@@ -1,9 +1,9 @@
 # CPM43
 40% Mechanical keyboard PCB
 
-![Frontside Render](https://raw.githubusercontent.com/Gtrx0/cpm43/master/Renders/Render%20Unpopulated%20Front.png)
-![Frontside Render](https://raw.githubusercontent.com/Gtrx0/cpm43/master/Renders/Render%20Populated%20Front.png)
-![Frontside Render](https://raw.githubusercontent.com/Gtrx0/cpm43/master/Renders/Render%20Populated%20Back.png)
+![Frontside Render](https://raw.githubusercontent.com/Gtrx0/cpm43/master/Renders/Render_Unpopulated_Front.png)
+![Frontside Render](https://raw.githubusercontent.com/Gtrx0/cpm43/master/Renders/Render_Populated_Front.png)
+![Frontside Render](https://raw.githubusercontent.com/Gtrx0/cpm43/master/Renders/Render_Populated_Back.png)
 [Layout](http://www.keyboard-layout-editor.com/#/gists/e3d0a9a1f7fb6537a82bb3f0c82ddf35)
 
 ## Features
