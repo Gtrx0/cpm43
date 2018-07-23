@@ -8,12 +8,13 @@
 
 ## Features
 * In-switch LED support.
-* RGB underglow from 14 separate WS2812B LEDs.
+* Individualy addressible RGB underglow provided by 14 separate WS2812B LEDs.
 * USB Type-C connector on the left side.
-* Compatible with MX and ALPS switches. 
-* Integrated Atmega32u4 microcontroller for a lower profile and easier qmk compatibility.
+* Compatible with Cherry MX and ALPS switches. 
+* Integrated 16MHz Atmega32u4 microcontroller for better qmk compatibility.
 * USB ESD protection circuit.
 * ICSP programming header just in case you try something a bit too extreme and need to unbrick it.
+* 0805 SMD and through hole Diode/resistor compatibility for ease of asembly.
 
 ## Warning
 KiCad 5 or above is needed to open this project. KiCad 4 or below won't work.
