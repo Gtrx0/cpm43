@@ -17,4 +17,4 @@
 * 0805 SMD and through hole diode/resistor compatibility for ease of assembly.
 
 ## Warning
-KiCad 5 or above is needed to open this project. KiCad 4 or below won't work.
+This project was developed in KiCad 5, thus you can't open the project using KiCad ver 4 or lower.
