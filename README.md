@@ -15,6 +15,7 @@
 * USB ESD protection circuit.
 * ICSP programming header just in case you try something a bit too extreme and need to unbrick it.
 * 0805 SMD and through hole Diode/resistor compatibility for ease of assembly.
+* USB breakout for extra redundency.
 
 ## Warning
 KiCad 5 or above is needed to open this project. KiCad 4 or below won't work.
